@@ -1,0 +1,119 @@
+.adsh-img {
+    width: 317px;
+    height: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+    
+
+.info-all > h3, .info-all > h4, .info-all > h6{
+    color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 178.06px;
+    height: 25.81px;
+    left: 186px;
+    top: 382px;
+    
+}
+.info-all > h3{
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    padding-block: 20px;
+
+}
+.info-all > h6{
+    width: 228px;
+    height: 16px;
+    left: 161px;
+    top: 437px;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+    padding-block: 20px;
+    text-align: center;
+
+    color: #F5F5F5;
+}
+.info-all > h4 {
+    width: 178.06px;
+    height: 14.19px;
+    left: 186px;
+    top: 414px;
+    font-weight: 400;
+    font-size: 12.8px;
+    line-height: 15px;
+    padding-block: 10px;
+    text-align: center;
+
+    color: #F3BF99;
+}
+.img {
+    display: flex;
+    align-items: center;
+    padding-block: 10px;
+
+}
+.img-mail {
+    box-sizing: border-box;
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 9px 13px 9px 11px;
+    gap: 8px;
+
+    /* position: absolute; */
+    width: 115px;
+    height: 34px;
+    left: 151px;
+    top: 468px;
+
+    margin-left: 10em;
+    margin-right: 1em;
+    /* white */
+
+    background: #FFFFFF;
+    /* gray/300 */
+
+    border: 1px solid #D1D5DB;
+    /* shadow/sm */
+
+
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+}
+.img-in {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 9px 13px 9px 11px;
+    gap: 8px;
+
+    width: 115px;
+    height: 34px;
+    left: 283px;
+    top: 468px;
+    
+    margin-left: 1em;
+    margin-right: 10em;
+
+    background: #5093E2;
+    /* shadow/sm */
+
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+}
+.img > h6 {
+    color: white;
+}

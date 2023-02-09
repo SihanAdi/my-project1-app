@@ -1,0 +1,16 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    /* position: fixed; */
+    width: 550px;
+    height: 868px;
+    left: 65px;
+    top: 53px;
+    max-width: 550px;
+
+    background: #23252C;
+}
